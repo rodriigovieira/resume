@@ -1,7 +1,9 @@
 # Rodrigo Vieira Rodrigues
 
 **Email:** rodriigovieira@gmail.com
+
 **Github:** rodriigovieira
+
 **Localização:** Aracaju, SE - Brasil
 
 # Perfil
