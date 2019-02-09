@@ -10,6 +10,10 @@
 
 Desenvolvedor Fullstack Javascript buscando oportunidades no mercado remoto para desenvolver a carreira.
 
+# Educação
+
+ENSINO SUPERIOR INCOMPLETO - Direito, Universidade Tiradentes (Aracaju, SE) - 2016/2 | atual
+
 # Experiência Profissional
 
 **Agente de Suporte Ténico:** - Damonte Host - 12/2016 - atual
