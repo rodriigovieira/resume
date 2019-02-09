@@ -4,7 +4,8 @@
 
 **Github:** rodriigovieira
 
-**Localização:** Aracaju, SE - Brazil
+**Localization:** Aracaju, SE - Brazil
+
 
 
 # Profile
@@ -12,9 +13,11 @@
 Fullstack Javascript Developer looking for opportunities in the remote market to develop the career.
 
 
+
 # Education
 
 LAW - Universidade Tiradentes - 2016/2 | present day
+
 
 
 # Professional Experience
@@ -22,6 +25,7 @@ LAW - Universidade Tiradentes - 2016/2 | present day
 SUPPORT AGENT, DAMONTE HOST - 2016/12 | present day
 
 Handle all kinds of support requests, from sales to advanced support, using technologies such as cPanel, WHM, WHMCS, and very ofter HTML and PHP, alongside with Linux.
+
 
 
 # Skills
