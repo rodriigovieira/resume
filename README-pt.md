@@ -18,7 +18,7 @@ ENSINO SUPERIOR INCOMPLETO - Direito, Universidade Tiradentes (Aracaju, SE) - 20
 
 **Agente de Suporte Ténico:** - Damonte Host - 12/2016 - atual
 
-Lidar com solicitações de suporte, tanto por chat como por ticket, e resolvendo probleams comuns de clientes, utilizando ferramentas como WHMCS, cPanel e WHM, mas muitas vezes lidando com problemas que envolvem HTML, PHP e Linux.
+> Lidar com solicitações de suporte, tanto por chat como por ticket, e resolvendo probleams comuns de clientes, utilizando ferramentas como WHMCS, cPanel e WHM, mas muitas vezes lidando com problemas que envolvem HTML, PHP e Linux.
 
 # Habilidades
 
