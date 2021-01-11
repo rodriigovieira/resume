@@ -2,37 +2,43 @@
 
 **Email:** rodriigovieira@gmail.com
 
-**Github:** rodriigovieira
-
 **Localization:** Aracaju, SE - Brazil
 
-
+**Birthday:** 09/08/1998
 
 # Profile
 
-Fullstack Javascript Developer looking for opportunities in the remote market to develop the career.
-
-
+Mobile and fullstack developer looking for remote opportunities overseas. Always eager and ready to learn more and more. Find more about me in (my website)[https://rodrigorodrigues.dev].
 
 # Education
 
-LAW - Universidade Tiradentes - 2016/2 | present day
-
-
+LAW - Universidade Tiradentes - 2016/2 (incomplete)
 
 # Professional Experience
 
-SUPPORT AGENT, DAMONTE HOST - 2016/12 | present day
+### Fullstack JS Developer - Interlaken Sistemas Eireli | 04/2019 - today
+- Developed an access control system used at more than 300 branches of our main client, in several countries
+- Developed a dashboard that keeps track of the state of more than 3000 devices, receiving pings every second and updating them at the interface
+- Developed a mobile app that allows students of more than 30 gyms to schedule lessons and see their workout sheets online.
 
-Handle all kinds of support requests, from sales to advanced support, using technologies such as cPanel, WHM, WHMCS, and very ofter HTML and PHP, alongside with Linux.
+### Support Agent, Damonte Host - 2016/12 | present day
+- Solve client complaints and technical issues;
+- Most used technologies: PHP, Linux, cPanel/WHM, among others as support requests vary;
+- Part-time job.
 
+# Skills:
 
+- Mobile: Flutter e React Native, plus Swift and Java for native integrations
+- Frontend: ReactJS and its ecosystem (Redux, Gatsby, MaterialUI, React-apollo, etc)
+- Backend: NodeJS and its ecosystem (Express, Mongoose, Sequelize, JWT, etc)
 
-# Skills
+### Language Skills:
 
-- HTML and CSS (SCSS, Bootstrap);
-- Javascript (Vanilla JS, ES 6, TDD);
-- React (Redux, HOC, React-Router, Jest, webpack) and React Native;
-- Node (REST Standard, Mocha, Express, HBS/EJS, Socket.io);
-- MongoDB, MySQL and Firebase;
-- Git e Github;
+- Advanced (C1) English
+- Native Portuguese
+- Conversational Spanish and French
+
+### Other relevant skills:
+
+- Certification in Linux;
+- Certification of international volunteer program with AIESEC
